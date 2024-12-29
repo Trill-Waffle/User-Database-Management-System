@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "username": "TRILL.WAFFLE",
+      "password": "Swalelegn3030",
+      "id": "4757",
+      "role": "admin"
+    },
+    {
+      "username": "SMENGIST",
+      "password": "Swalelegn2020,",
+      "id": "5931",
+      "role": "user"
+    },
+    {
+      "username": "newuser_1722290433459",
+      "password": "password123",
+      "id": "9375",
+      "role": "user"
+    },
+    {
+      "username": "newuser_1722290494033",
+      "password": "password123",
+      "id": "3747",
+      "role": "user"
+    },
+    {
+      "username": "newuser_1722290694842",
+      "password": "password123",
+      "id": "7088",
+      "role": "user"
+    },
+    {
+      "username": "newuser_1722290733021",
+      "password": "password123",
+      "id": "4564",
+      "role": "user"
+    },
+    {
+      "username": "newuser_1722290756399",
+      "password": "password123",
+      "id": "9746",
+      "role": "user"
+    },
+    {
+      "username": "newuser_1722290908382",
+      "password": "password123",
+      "id": "3868",
+      "role": "user"
+    },
+    {
+      "username": "newuser_1722290934164",
+      "password": "password123",
+      "id": "1215",
+      "role": "user"
+    },
+    {
+      "username": "newuser_1722290951680",
+      "password": "password123",
+      "id": "6018",
+      "role": "user"
+    },
+    {
+      "username": "updateduser",
+      "password": "newpassword123",
+      "id": "2214",
+      "role": "user"
+    },
+    {
+      "username": "updateduser",
+      "password": "newpassword123",
+      "id": "5953",
+      "role": "user"
+    }
+  ]
+}

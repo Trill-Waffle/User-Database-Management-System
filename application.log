@@ -1,0 +1,288 @@
+2024-07-28T23:50:37.251Z [info]: Server started on port 3000
+2024-07-28T23:51:37.026Z [info]: Fetched all users
+2024-07-28T23:51:39.526Z [info]: Fetched all users
+2024-07-28T23:51:40.431Z [info]: Fetched all users
+2024-07-28T23:51:41.128Z [info]: Fetched all users
+2024-07-28T23:51:42.111Z [info]: Fetched all users
+2024-07-28T23:52:23.653Z [info]: Fetched user with ID: def
+2024-07-28T23:52:25.405Z [info]: Fetched user with ID: def
+2024-07-28T23:52:26.114Z [info]: Fetched user with ID: def
+2024-07-28T23:52:26.467Z [info]: Fetched user with ID: def
+2024-07-28T23:52:26.705Z [info]: Fetched user with ID: def
+2024-07-28T23:52:26.974Z [info]: Fetched user with ID: def
+2024-07-28T23:52:27.198Z [info]: Fetched user with ID: def
+2024-07-28T23:52:27.439Z [info]: Fetched user with ID: def
+2024-07-28T23:52:27.668Z [info]: Fetched user with ID: def
+2024-07-28T23:52:27.876Z [info]: Fetched user with ID: def
+2024-07-28T23:52:28.069Z [info]: Fetched user with ID: def
+2024-07-28T23:52:28.278Z [info]: Fetched user with ID: def
+2024-07-28T23:53:46.562Z [info]: Server started on port 3000
+2024-07-28T23:54:00.902Z [info]: Created new user: SkullMenFires
+2024-07-28T23:54:01.590Z [info]: Server started on port 3000
+2024-07-28T23:57:37.039Z [info]: Server started on port 3000
+2024-07-28T23:57:44.875Z [error]: Error creating user: username is not defined
+2024-07-29T00:00:36.407Z [error]: Error creating user: username is not defined
+2024-07-29T00:02:12.241Z [info]: Server started on port 3000
+2024-07-29T00:02:55.569Z [info]: Server started on port 3000
+2024-07-29T00:03:05.465Z [warn]: Failed to create user
+2024-07-29T00:03:44.401Z [warn]: Failed to create user
+2024-07-29T00:03:56.074Z [info]: Server started on port 3000
+2024-07-29T00:03:58.846Z [info]: Server started on port 3000
+2024-07-29T00:04:01.819Z [warn]: Failed to create user
+2024-07-29T00:07:42.862Z [info]: Server started on port 3000
+2024-07-29T00:10:07.751Z [info]: Server started on port 3000
+2024-07-29T00:10:33.133Z [info]: Created new user: SkullMenFires
+2024-07-29T00:10:33.872Z [info]: Server started on port 3000
+2024-07-29T00:16:16.459Z [info]: Server started on port 3000
+2024-07-29T00:16:27.463Z [info]: Server started on port 3000
+2024-07-29T00:16:32.647Z [info]: Server started on port 3000
+2024-07-29T00:16:44.368Z [info]: Server started on port 3000
+2024-07-29T00:16:52.157Z [info]: Server started on port 3000
+2024-07-29T00:17:03.286Z [info]: Server started on port 3000
+2024-07-29T00:17:23.418Z [info]: Server started on port 3000
+2024-07-29T00:17:52.487Z [info]: Server started on port 3000
+2024-07-29T00:18:07.214Z [info]: Server started on port 3000
+2024-07-29T00:18:22.364Z [warn]: Failed to create user
+2024-07-29T00:18:37.057Z [info]: Server started on port 3000
+2024-07-29T00:19:43.598Z [warn]: Failed to create user
+2024-07-29T00:24:52.285Z [info]: Server started on port 3000
+2024-07-29T00:25:09.330Z [info]: Server started on port 3000
+2024-07-29T00:26:05.847Z [info]: Server started on port 3000
+2024-07-29T00:26:20.205Z [info]: Server started on port 3000
+2024-07-29T00:26:53.271Z [info]: Server started on port 3000
+2024-07-29T00:27:47.455Z [info]: Server started on port 3000
+2024-07-29T00:28:10.682Z [warn]: Failed to create user
+2024-07-29T00:29:25.483Z [info]: Server started on port 3000
+2024-07-29T00:29:34.174Z [warn]: Failed to create user
+2024-07-29T00:30:06.218Z [info]: Server started on port 3000
+2024-07-29T00:30:20.187Z [info]: Created new user: SkullMenFires
+2024-07-29T00:30:21.275Z [info]: Server started on port 3000
+2024-07-29T00:30:26.696Z [warn]: Failed to create user
+2024-07-29T00:30:46.317Z [info]: Created new user: SkullMenFire
+2024-07-29T00:30:46.941Z [info]: Server started on port 3000
+2024-07-29T00:52:47.359Z [info]: Deleted user with ID: 6045
+2024-07-29T00:52:48.175Z [info]: Server started on port 3000
+2024-07-29T00:55:23.431Z [info]: Updated user with ID: 4757
+2024-07-29T00:55:24.342Z [info]: Server started on port 3000
+2024-07-29T00:55:36.784Z [info]: Updated user with ID: 4757
+2024-07-29T00:55:37.289Z [info]: Server started on port 3000
+2024-07-29T00:58:27.388Z [info]: Server started on port 3000
+2024-07-29T01:00:35.979Z [info]: Server started on port 3000
+2024-07-29T01:00:52.433Z [info]: Server started on port 3000
+2024-07-29T01:09:13.435Z [info]: Server started on port 3000
+2024-07-29T01:12:35.550Z [info]: Server started on port 3000
+2024-07-29T01:12:38.976Z [info]: Assigned role admin to user with ID: 4757
+2024-07-29T01:12:39.904Z [info]: Server started on port 3000
+2024-07-29T01:13:54.726Z [error]: Error: Expected ',' or '}' after property value in JSON at position 26
+2024-07-29T01:14:03.533Z [info]: Created new user: SMENGIST
+2024-07-29T01:14:04.239Z [info]: Server started on port 3000
+2024-07-29T01:14:53.840Z [info]: Updated user with ID: 5931
+2024-07-29T01:14:54.480Z [info]: Server started on port 3000
+2024-07-29T21:46:55.488Z [info]: Server started on port 3000
+2024-07-29T21:46:55.544Z [info]: Fetched all users
+2024-07-29T21:46:55.583Z [warn]: User with ID 1234 not found
+2024-07-29T21:46:55.610Z [warn]: User with ID nonexistent not found
+2024-07-29T21:46:55.665Z [info]: Created new user: newuser
+2024-07-29T21:46:55.747Z [warn]: User with ID 1234 not found
+2024-07-29T21:46:55.760Z [warn]: User with ID nonexistent not found
+2024-07-29T21:46:55.769Z [warn]: User with ID 1234 not found
+2024-07-29T21:46:55.786Z [warn]: User with ID nonexistent not found
+2024-07-29T21:46:55.815Z [warn]: User with ID 1234 not found
+2024-07-29T21:46:55.842Z [warn]: User with ID nonexistent not found
+2024-07-29T21:49:52.572Z [info]: Server started on port 3000
+2024-07-29T21:49:52.618Z [info]: Fetched all users
+2024-07-29T21:49:52.659Z [warn]: Failed to create user
+2024-07-29T21:49:52.690Z [warn]: User with ID undefined not found
+2024-07-29T21:49:52.703Z [warn]: User with ID nonexistent not found
+2024-07-29T21:49:52.719Z [warn]: User with ID undefined not found
+2024-07-29T21:49:52.734Z [warn]: User with ID nonexistent not found
+2024-07-29T21:49:52.742Z [warn]: User with ID undefined not found
+2024-07-29T21:49:52.755Z [warn]: User with ID nonexistent not found
+2024-07-29T21:49:52.764Z [warn]: User with ID undefined not found
+2024-07-29T21:49:52.775Z [warn]: User with ID nonexistent not found
+2024-07-29T21:50:09.428Z [info]: Server started on port 3000
+2024-07-29T21:50:09.463Z [info]: Fetched all users
+2024-07-29T21:50:09.503Z [warn]: Failed to create user
+2024-07-29T21:50:09.537Z [warn]: User with ID undefined not found
+2024-07-29T21:50:09.554Z [warn]: User with ID nonexistent not found
+2024-07-29T21:50:09.569Z [warn]: User with ID undefined not found
+2024-07-29T21:50:09.587Z [warn]: User with ID nonexistent not found
+2024-07-29T21:50:09.597Z [warn]: User with ID undefined not found
+2024-07-29T21:50:09.608Z [warn]: User with ID nonexistent not found
+2024-07-29T21:50:09.623Z [warn]: User with ID undefined not found
+2024-07-29T21:50:09.634Z [warn]: User with ID nonexistent not found
+2024-07-29T21:54:25.881Z [info]: Server started on port 3000
+2024-07-29T21:54:25.917Z [info]: Fetched all users
+2024-07-29T21:54:25.959Z [info]: Created new user: newuser_1722290065931
+2024-07-29T21:54:25.999Z [warn]: User with ID undefined not found
+2024-07-29T21:54:26.016Z [warn]: User with ID nonexistent not found
+2024-07-29T21:54:26.029Z [warn]: User with ID undefined not found
+2024-07-29T21:54:26.044Z [warn]: User with ID nonexistent not found
+2024-07-29T21:54:26.072Z [warn]: User with ID undefined not found
+2024-07-29T21:54:26.083Z [warn]: User with ID nonexistent not found
+2024-07-29T21:54:26.118Z [warn]: User with ID undefined not found
+2024-07-29T21:54:26.130Z [warn]: User with ID nonexistent not found
+2024-07-29T21:55:45.788Z [info]: Server started on port 3000
+2024-07-29T21:55:45.825Z [info]: Fetched all users
+2024-07-29T21:55:45.864Z [info]: Created new user: newuser_1722290145839
+2024-07-29T21:55:45.895Z [warn]: User with ID undefined not found
+2024-07-29T21:55:45.905Z [warn]: User with ID nonexistent not found
+2024-07-29T21:55:45.925Z [warn]: User with ID undefined not found
+2024-07-29T21:55:45.940Z [warn]: User with ID nonexistent not found
+2024-07-29T21:55:45.949Z [warn]: User with ID undefined not found
+2024-07-29T21:55:45.961Z [warn]: User with ID nonexistent not found
+2024-07-29T21:55:45.975Z [warn]: User with ID undefined not found
+2024-07-29T21:55:45.984Z [warn]: User with ID nonexistent not found
+2024-07-29T21:57:12.536Z [info]: Server started on port 3000
+2024-07-29T21:57:12.580Z [info]: Fetched all users
+2024-07-29T21:57:12.626Z [info]: Created new user: newuser_1722290232594
+2024-07-29T21:57:12.677Z [warn]: User with ID undefined not found
+2024-07-29T21:57:12.684Z [warn]: User with ID nonexistent not found
+2024-07-29T21:57:12.700Z [warn]: User with ID undefined not found
+2024-07-29T21:57:12.718Z [warn]: User with ID nonexistent not found
+2024-07-29T21:57:12.745Z [warn]: User with ID undefined not found
+2024-07-29T21:57:12.753Z [warn]: User with ID nonexistent not found
+2024-07-29T21:57:12.815Z [warn]: User with ID undefined not found
+2024-07-29T21:57:12.846Z [warn]: User with ID nonexistent not found
+2024-07-29T21:58:05.742Z [info]: Server started on port 3000
+2024-07-29T21:58:05.780Z [info]: Fetched all users
+2024-07-29T21:58:05.827Z [info]: Created new user: newuser_1722290285795
+2024-07-29T21:58:05.868Z [warn]: User with ID undefined not found
+2024-07-29T21:58:05.897Z [warn]: User with ID nonexistent not found
+2024-07-29T21:58:05.915Z [warn]: User with ID undefined not found
+2024-07-29T21:58:05.954Z [warn]: User with ID nonexistent not found
+2024-07-29T21:58:05.988Z [warn]: User with ID undefined not found
+2024-07-29T21:58:05.999Z [warn]: User with ID nonexistent not found
+2024-07-29T21:58:06.034Z [warn]: User with ID undefined not found
+2024-07-29T21:58:06.064Z [warn]: User with ID nonexistent not found
+2024-07-29T21:58:38.189Z [info]: Server started on port 3000
+2024-07-29T21:58:43.643Z [info]: Fetched all users
+2024-07-29T21:58:43.678Z [info]: Created new user: newuser_1722290323654
+2024-07-29T21:58:43.720Z [warn]: User with ID undefined not found
+2024-07-29T21:58:43.730Z [warn]: User with ID nonexistent not found
+2024-07-29T21:58:43.749Z [warn]: User with ID undefined not found
+2024-07-29T21:58:43.772Z [warn]: User with ID nonexistent not found
+2024-07-29T21:58:43.817Z [warn]: User with ID undefined not found
+2024-07-29T21:58:43.833Z [warn]: User with ID nonexistent not found
+2024-07-29T21:58:43.853Z [warn]: User with ID undefined not found
+2024-07-29T21:58:43.872Z [warn]: User with ID nonexistent not found
+2024-07-29T21:58:44.281Z [info]: Server started on port 3000
+2024-07-29T22:00:33.398Z [info]: Server started on port 3000
+2024-07-29T22:00:33.447Z [info]: Fetched all users
+2024-07-29T22:00:33.487Z [info]: Created new user: newuser_1722290433459
+2024-07-29T22:00:33.529Z [warn]: User with ID undefined not found
+2024-07-29T22:00:33.540Z [warn]: User with ID nonexistent not found
+2024-07-29T22:00:33.552Z [warn]: User with ID undefined not found
+2024-07-29T22:00:33.562Z [warn]: User with ID nonexistent not found
+2024-07-29T22:00:33.573Z [warn]: User with ID undefined not found
+2024-07-29T22:00:33.585Z [warn]: User with ID nonexistent not found
+2024-07-29T22:00:33.594Z [warn]: User with ID undefined not found
+2024-07-29T22:00:33.605Z [warn]: User with ID nonexistent not found
+2024-07-29T22:01:33.934Z [info]: Server started on port 3000
+2024-07-29T22:01:34.010Z [info]: Fetched all users
+2024-07-29T22:01:34.076Z [info]: Created new user: newuser_1722290494033
+2024-07-29T22:01:34.237Z [warn]: User with ID undefined not found
+2024-07-29T22:01:34.326Z [warn]: User with ID nonexistent not found
+2024-07-29T22:01:34.365Z [warn]: User with ID undefined not found
+2024-07-29T22:01:34.402Z [warn]: User with ID nonexistent not found
+2024-07-29T22:01:34.429Z [warn]: User with ID undefined not found
+2024-07-29T22:01:34.439Z [warn]: User with ID nonexistent not found
+2024-07-29T22:01:34.455Z [warn]: User with ID undefined not found
+2024-07-29T22:01:34.469Z [warn]: User with ID nonexistent not found
+2024-07-29T22:03:29.813Z [info]: Server started on port 3000
+2024-07-29T22:03:29.855Z [info]: Fetched all users
+2024-07-29T22:04:31.817Z [info]: Server started on port 3000
+2024-07-29T22:04:31.860Z [info]: Fetched all users
+2024-07-29T22:04:54.867Z [info]: Server started on port 3000
+2024-07-29T22:04:54.912Z [info]: Fetched all users
+2024-07-29T22:04:54.962Z [info]: Created new user: newuser_1722290694842
+2024-07-29T22:05:33.032Z [info]: Server started on port 3000
+2024-07-29T22:05:33.067Z [info]: Fetched all users
+2024-07-29T22:05:33.097Z [info]: Created new user: newuser_1722290733021
+2024-07-29T22:05:56.417Z [info]: Server started on port 3000
+2024-07-29T22:05:56.454Z [info]: Fetched all users
+2024-07-29T22:05:56.497Z [info]: Created new user: newuser_1722290756399
+2024-07-29T22:08:28.419Z [info]: Server started on port 3000
+2024-07-29T22:08:28.461Z [info]: Fetched all users
+2024-07-29T22:08:28.502Z [info]: Created new user: newuser_1722290908382
+2024-07-29T22:08:54.182Z [info]: Server started on port 3000
+2024-07-29T22:08:54.223Z [info]: Fetched all users
+2024-07-29T22:08:54.260Z [info]: Created new user: newuser_1722290934164
+2024-07-29T22:08:54.281Z [info]: Fetched user with ID: 1215
+2024-07-29T22:09:11.695Z [info]: Server started on port 3000
+2024-07-29T22:09:11.737Z [info]: Fetched all users
+2024-07-29T22:09:11.782Z [info]: Created new user: newuser_1722290951680
+2024-07-29T22:09:11.801Z [info]: Fetched user with ID: 6018
+2024-07-29T22:09:11.832Z [warn]: User with ID nonexistent not found
+2024-07-29T22:09:36.912Z [info]: Server started on port 3000
+2024-07-29T22:09:36.955Z [info]: Fetched all users
+2024-07-29T22:09:36.997Z [info]: Created new user: newuser_1722290976896
+2024-07-29T22:09:37.016Z [info]: Fetched user with ID: 2214
+2024-07-29T22:09:37.036Z [warn]: User with ID nonexistent not found
+2024-07-29T22:09:37.089Z [info]: Updated user with ID: 2214
+2024-07-29T22:09:49.104Z [info]: Server started on port 3000
+2024-07-29T22:09:49.148Z [info]: Fetched all users
+2024-07-29T22:09:49.190Z [info]: Created new user: newuser_1722290989090
+2024-07-29T22:09:49.208Z [info]: Fetched user with ID: 5953
+2024-07-29T22:09:49.215Z [warn]: User with ID nonexistent not found
+2024-07-29T22:09:49.228Z [info]: Updated user with ID: 5953
+2024-07-29T22:09:49.242Z [warn]: User with ID nonexistent not found
+2024-07-29T22:10:00.661Z [info]: Server started on port 3000
+2024-07-29T22:10:00.717Z [info]: Fetched all users
+2024-07-29T22:10:00.797Z [info]: Created new user: newuser_1722291000643
+2024-07-29T22:10:00.825Z [info]: Fetched user with ID: 6123
+2024-07-29T22:10:00.845Z [warn]: User with ID nonexistent not found
+2024-07-29T22:10:00.866Z [info]: Updated user with ID: 6123
+2024-07-29T22:10:00.898Z [warn]: User with ID nonexistent not found
+2024-07-29T22:10:00.961Z [info]: Deleted user with ID: 6123
+2024-07-29T22:10:13.761Z [info]: Server started on port 3000
+2024-07-29T22:10:13.803Z [info]: Fetched all users
+2024-07-29T22:10:13.849Z [info]: Created new user: newuser_1722291013747
+2024-07-29T22:10:13.872Z [info]: Fetched user with ID: 6451
+2024-07-29T22:10:13.888Z [warn]: User with ID nonexistent not found
+2024-07-29T22:10:13.906Z [info]: Updated user with ID: 6451
+2024-07-29T22:10:13.923Z [warn]: User with ID nonexistent not found
+2024-07-29T22:10:13.938Z [info]: Deleted user with ID: 6451
+2024-07-29T22:10:13.957Z [warn]: User with ID nonexistent not found
+2024-07-29T22:10:46.164Z [info]: Server started on port 3000
+2024-07-29T22:10:46.195Z [info]: Fetched all users
+2024-07-29T22:10:46.233Z [info]: Created new user: newuser_1722291046152
+2024-07-29T22:10:46.259Z [info]: Fetched user with ID: 6954
+2024-07-29T22:10:46.273Z [warn]: User with ID nonexistent not found
+2024-07-29T22:10:46.293Z [info]: Updated user with ID: 6954
+2024-07-29T22:10:46.310Z [warn]: User with ID nonexistent not found
+2024-07-29T22:10:46.326Z [info]: Deleted user with ID: 6954
+2024-07-29T22:10:46.350Z [warn]: User with ID nonexistent not found
+2024-07-29T22:10:46.366Z [warn]: User with ID 6954 not found
+2024-07-29T22:12:14.264Z [info]: Server started on port 3000
+2024-07-29T22:12:14.307Z [info]: Fetched all users
+2024-07-29T22:12:14.367Z [info]: Created new user: newuser_1722291134251
+2024-07-29T22:12:14.402Z [info]: Fetched user with ID: 5666
+2024-07-29T22:12:14.425Z [warn]: User with ID nonexistent not found
+2024-07-29T22:12:14.450Z [info]: Updated user with ID: 5666
+2024-07-29T22:12:14.490Z [warn]: User with ID nonexistent not found
+2024-07-29T22:12:14.515Z [info]: Deleted user with ID: 5666
+2024-07-29T22:12:14.532Z [warn]: User with ID nonexistent not found
+2024-07-29T22:12:14.550Z [warn]: User with ID 5666 not found
+2024-07-29T22:13:29.697Z [info]: Server started on port 3000
+2024-07-29T22:13:29.735Z [info]: Fetched all users
+2024-07-29T22:13:29.768Z [info]: Created new user: newuser_1722291209686
+2024-07-29T22:13:29.789Z [info]: Fetched user with ID: 1052
+2024-07-29T22:13:29.800Z [warn]: User with ID nonexistent not found
+2024-07-29T22:13:29.817Z [info]: Updated user with ID: 1052
+2024-07-29T22:13:29.835Z [warn]: User with ID nonexistent not found
+2024-07-29T22:13:29.852Z [info]: Deleted user with ID: 1052
+2024-07-29T22:13:29.872Z [warn]: User with ID nonexistent not found
+2024-07-29T22:13:29.899Z [warn]: User with ID 1052 not found
+2024-07-29T22:13:44.907Z [info]: Server started on port 3000
+2024-07-29T22:13:44.946Z [info]: Fetched all users
+2024-07-29T22:13:44.983Z [info]: Created new user: newuser_1722291224892
+2024-07-29T22:13:45.011Z [info]: Fetched user with ID: 6457
+2024-07-29T22:13:45.022Z [warn]: User with ID nonexistent not found
+2024-07-29T22:13:45.035Z [info]: Updated user with ID: 6457
+2024-07-29T22:13:45.051Z [warn]: User with ID nonexistent not found
+2024-07-29T22:13:45.066Z [info]: Deleted user with ID: 6457
+2024-07-29T22:13:45.084Z [warn]: User with ID nonexistent not found
+2024-07-29T22:13:45.103Z [warn]: User with ID nonexistent not found
+2024-08-25T12:51:56.603Z [info]: Server started on port 3000
+2024-08-25T12:52:31.203Z [info]: Fetched all users
